@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "..\\jssattempts"
+	},
+	{
+		"path": "..\\javascript-basic-projects-master"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "javascript-basic-projects-master"
+  }
+}
